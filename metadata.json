@@ -1,0 +1,8 @@
+{
+  "name": "LuxeStay Hotel Booking",
+  "description": "A premium hotel booking platform featuring a comprehensive client interface for room reservations and a robust admin dashboard for managing bookings, rooms, and reports.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
